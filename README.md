@@ -1,12 +1,12 @@
 # Mahmud Institute
 
-This project was build  with React and Material UI[Project live link](https://relaxed-cori-5c75f6.netlify.app/).
+This project was build  with React and Material UI [Project live link](https://relaxed-cori-5c75f6.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
-1.This Web site provides web development and programming courses.
-2.It was build with React and Material UI
+1.This Web site provides web development and programming courses.</br>
+2.It was build with React and Material UI.</br>
 3.You can see all our website
 
 ### `npm start`
