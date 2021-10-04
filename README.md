@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Mahmud Institute
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build  with React and Material UI[Project live link](https://relaxed-cori-5c75f6.netlify.app/).
 
 ## Available Scripts
 
 In the project directory, you can run:
+1.This Web site provides web development and programming courses.
+2.It was build with React and Material UI
+3.You can see all our website
 
 ### `npm start`
 
